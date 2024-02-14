@@ -19,16 +19,17 @@
 
 ## Contents
 
-- [Products](#products)
+- [Platforms](#platforms)
 - [Wallet](#wallet)
 - [Developers](#developers)
 
 
-## Products
+## Platforms
 
 - [Mintbase](https://www.mintbase.xyz/) - Mintbase Main System, Deploy tyour own smart contract, mint, list, and buy
 - [Mintbase Wallet](https://wallet.mintbase.xyz/) - User-Friendly Onboarding Wallet
-- [Templates](https://templates.mintbase.xyz/) - Developer Playground to build bloakchain and AI apps
+- [Templates](https://templates.mintbase.xyz/) - Developer Playground to build blockchain and AI apps
+- [Docs](https://www.docs.mintbase.xyz/) - Mintbase Docs
 - [AI Promts](https://ai.mintbase.xyz/) Use AI to quiry info, mint, transfer, gernate images and buy
 - [Market](https://www.mintbase.xyz/explore/featured/0) - List and buy NFTs for sale
 - [Creator Suite](https://www.mintbase.xyz/launchpad/contracts/0) Deploy your own smart contract, mint, airdrop, list
@@ -47,4 +48,4 @@
 
 ## Minsta Activation
 - [NEARCON](https://nearcon.mintbase.xyz/) Nearcon Moments 
-- [rakhi](https://rakhi.mintbase.xyz/) Raksha Bandhan 
+- [rakhi](https://rakhi.mintbase.xyz/) Raksha Bandhan
